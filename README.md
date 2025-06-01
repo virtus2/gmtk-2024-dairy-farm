@@ -1,5 +1,5 @@
 # gmtk-2024-dairy-farm
-![1]([https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/1.png](https://github.com/virtus2/gmtk-2024-dairy-farm/blob/main/thumbnail.png))  
+![1](https://github.com/virtus2/gmtk-2024-dairy-farm/blob/main/thumbnail.png)  
 **Dairy farm**은 기획 1, 프로그래머 1로 구성된 **끼에엑게임즈**가 개발한 게임입니다. **2024 GMTK 게임잼**에 출품하였습니다.  
 (AI를 사용하여 생성된 이미지입니다.)  
 
