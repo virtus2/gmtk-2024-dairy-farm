@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c67d6a93c2229b48834ab0a69d4bd1d, type: 3}
+  m_Name: Cow Data
+  m_EditorClassIdentifier: 
+  AnimalToSpawn: {fileID: -8575352774934108901, guid: 93f17684fe0e9014ea45ae58b8112957,
+    type: 3}
+  animal: 1
+  price: 400
+  icon: {fileID: 21300000, guid: 34876a211acd8384698d3ba9d4519629, type: 3}
+  lockIcon: {fileID: 21300000, guid: 49230b2ef5a4d2e4fad703045671846b, type: 3}
+  unlockWhenChickenCount: 3
+  unlockWhenCowCount: 0
+  unlockWhenDeerCount: 0
+  unlockWhenLionCount: 0
+  maxHunger: 60
+  startHunger: 40
+  hungerAlarm: 20
+  hungerToStartEat: 15
+  hungerDecreasePerFrame: 3
+  hungerEarnedWhenEat: 25
+  minHungerToSpawnResources: 20
+  spawnResourceTime: 5
+  spawnResourceCount: 3
+  resourcePrice: 15
+  AnimalController: {fileID: 1689967342984959523, guid: 8fabaef063baa5e46a3411385b03b1c9,
+    type: 3}
